@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista
+Kauppalista on hyvä olla
